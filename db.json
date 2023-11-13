@@ -1,0 +1,67 @@
+{
+  "teas": [
+    {
+      "id": 11,
+      "category": "Черный",
+      "title": "Шу Пуэр Габа",
+      "img": "https://xn--80aaabrd6bsq3n.xn--p1ai/d/img_20210507_150333.jpg",
+      "price": 15
+    },
+    {
+      "id": 22,
+      "title": "Цзинь Цзюнь Мей",
+      "img": "https://xn--80aaabrd6bsq3n.xn--p1ai/thumb/2/n3syIzhw1tx9FwoqsqqC9g/r/d/czin_czyun_mej_van.jpg",
+      "category": "Красный",
+      "price": 12
+    },
+    {
+      "id": 33,
+      "title": "Юнь У",
+      "img": "https://xn--80aaabrd6bsq3n.xn--p1ai/thumb/2/kKjv1n0eyRJ4nnMnDrowlw/r/d/b76a7211.jpg",
+      "category": "Зеленый",
+      "price": 8
+    },
+    {
+      "id": 44,
+      "title": "Би Ло Чунь",
+      "img": "https://xn--80aaabrd6bsq3n.xn--p1ai/thumb/2/yBS4NlqGw52j9vrEY2wjGQ/r/d/bi_lo_chun_2.jpg",
+      "category": "Зеленый",
+      "price": 12
+    },
+    {
+      "id": 55,
+      "title": "Бай Хао",
+      "img": "https://xn--80aaabrd6bsq3n.xn--p1ai/thumb/2/J-IMsIDheKzOrRjtDL4TxQ/r/d/img_20201109_123406_495.jpg",
+      "category": "Белый",
+      "price": 16
+    },
+    {
+      "id": 66,
+      "title": "Шен Пуэр Цзы Цзюань",
+      "img": "https://xn--80aaabrd6bsq3n.xn--p1ai/thumb/2/FrBf4pmL_Vie_cZukd3b9g/r/d/img_20210422_121927.jpg",
+      "category": "Черный",
+      "price": 100
+    },
+    {
+      "id": 77,
+      "title": "Цзинь Хао Дянь Хун",
+      "img": "https://xn--80aaabrd6bsq3n.xn--p1ai/thumb/2/Qyc1i3iveWR-oqWo6QRHiA/r/d/obezyana.jpg",
+      "category": "Красный",
+      "price": 18
+    },
+    {
+      "id": 88,
+      "title": "Хуо Шань Хуан",
+      "img": "https://xn--80aaabrd6bsq3n.xn--p1ai/thumb/2/f5N6IKYK7BI73qN6jLGCog/r/d/huo_shan_huan_ya.jpg",
+      "category": "Зеленый",
+      "price": 15
+    },
+    {
+      "id": 99,
+      "title": "Лао Бай Ча",
+      "img": "https://xn--80aaabrd6bsq3n.xn--p1ai/thumb/2/5oMHURdzqz1-3x0fa8LgJQ/r/d/img_20201109_123550_506.jpg",
+      "category": "Черный",
+      "price": 9
+    }
+  ]
+}
